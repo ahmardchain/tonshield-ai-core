@@ -20,7 +20,7 @@ The mnemonic is printed once to the server console for operator backup during MV
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone git clone https://github.com/ahmardchain/tonshield-ai-core.git
 cd tonshield-ai-core
 npm install
 cp .env.example .env
